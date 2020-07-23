@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">jetpack</string>
+    <string name="BUTTON_1">Button</string>
+    <string name="BUTTON_2">Button</string>
+</resources>
